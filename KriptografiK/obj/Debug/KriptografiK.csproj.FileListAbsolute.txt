@@ -1,0 +1,7 @@
+C:\Users\ADMIN\source\repos\KriptografiK\bin\Debug\KriptografiK.exe.config
+C:\Users\ADMIN\source\repos\KriptografiK\bin\Debug\KriptografiK.exe
+C:\Users\ADMIN\source\repos\KriptografiK\bin\Debug\KriptografiK.pdb
+C:\Users\ADMIN\source\repos\KriptografiK\obj\Debug\KriptografiK.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\KriptografiK\obj\Debug\KriptografiK.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\KriptografiK\obj\Debug\KriptografiK.exe
+C:\Users\ADMIN\source\repos\KriptografiK\obj\Debug\KriptografiK.pdb
